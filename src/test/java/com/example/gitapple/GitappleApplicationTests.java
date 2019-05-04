@@ -13,4 +13,16 @@ public class GitappleApplicationTests {
 	public void contextLoads() {
 	}
 
+	private void m1() {
+		System.out.println("11111");
+	}
+
+	private void m2() {
+		System.out.println("222222");
+	}
+
+	private void m3() {
+		System.out.println("333333");
+	}
+
 }
