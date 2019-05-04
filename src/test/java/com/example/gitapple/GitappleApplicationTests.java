@@ -25,4 +25,8 @@ public class GitappleApplicationTests {
 		System.out.println("333333");
 	}
 
+	private void m3a() {
+		System.out.println("3a3a3a3a3a");
+	}
+
 }
