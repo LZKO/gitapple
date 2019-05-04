@@ -48,4 +48,8 @@ public class GitUseTest2 {
         System.out.println("iss53--12");
     }
 
+    private void mIss52Change() {
+        System.out.println("mIss52Change");
+    }
+
 }
