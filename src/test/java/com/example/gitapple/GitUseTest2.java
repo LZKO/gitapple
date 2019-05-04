@@ -57,4 +57,8 @@ public class GitUseTest2 {
         System.out.println("mHofix2");
     }
 
+    private void mHotfix2Changed() {
+        System.out.println("mHotfix2Changed");
+    }
+
 }
