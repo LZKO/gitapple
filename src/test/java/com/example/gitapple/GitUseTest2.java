@@ -36,4 +36,8 @@ public class GitUseTest2 {
         System.out.println("77777777");
     }
 
+    private void m9() {
+        System.out.println("999999");
+    }
+
 }
