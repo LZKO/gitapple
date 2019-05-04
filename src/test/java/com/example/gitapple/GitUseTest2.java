@@ -53,4 +53,8 @@ public class GitUseTest2 {
 
     }
 
+    private void mHofix2() {
+        System.out.println("mHofix2");
+    }
+
 }
