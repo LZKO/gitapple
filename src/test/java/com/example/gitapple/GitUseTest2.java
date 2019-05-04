@@ -69,4 +69,12 @@ public class GitUseTest2 {
         System.out.println("mHotfix2Changed2");
     }
 
+    private void mIss52Change2() {
+        System.out.println("mIss52Change2");
+    }
+
+    private void mIss52Change3() {
+        System.out.println("mIss52Change3");
+    }
+
 }
