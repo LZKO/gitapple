@@ -52,4 +52,8 @@ public class GitUseTest2 {
         System.out.println("mIss52Change");
     }
 
+    private void mIss52Change2() {
+        System.out.println("mIss52Change2");
+    }
+
 }
