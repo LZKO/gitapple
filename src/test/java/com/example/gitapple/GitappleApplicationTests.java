@@ -37,4 +37,8 @@ public class GitappleApplicationTests {
         System.out.println("6666666");
     }
 
+    private void m7() {
+        System.out.println("77777777");
+    }
+
 }

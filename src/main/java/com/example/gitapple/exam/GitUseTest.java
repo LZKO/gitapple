@@ -16,4 +16,8 @@ public class GitUseTest {
         System.out.println("22222");
     }
 
+    private void m3() {
+        System.out.println("33333");
+    }
+
 }
