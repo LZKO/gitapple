@@ -28,4 +28,8 @@ public class GitUseTest2 {
         System.out.println("55555");
     }
 
+    private void m6() {
+        System.out.println("666666");
+    }
+
 }
