@@ -20,4 +20,8 @@ public class GitUseTest2 {
         System.out.println("3333");
     }
 
+    private void m3a() {
+        System.out.println("3a3a3a3a");
+    }
+
 }
