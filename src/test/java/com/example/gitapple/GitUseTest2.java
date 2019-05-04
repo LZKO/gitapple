@@ -40,4 +40,8 @@ public class GitUseTest2 {
         System.out.println("999999");
     }
 
+    private void m11() {
+        System.out.println("11 11 11 11");
+    }
+
 }
